@@ -1,0 +1,29 @@
+// use litera as the base
+$theme: "litera" !default;
+
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+// fonts
+$font-family: 'Young Serif', serif;
+
+// colours
+$link-color: #9c3a21;
+$link-hover-color: #ad5a45;
+$body-bg: #dbc8c3;
+
+/*-- scss:rules --*/
+.title {
+  $font-family: 'Young Serif', serif;
+}
+
+h3 {
+  $font-family: 'Young Serif', serif;
+  color: #444444;
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+---
+title: "Aleshia Westgate"
+about:
+  template: jolla
+  image: images/aleshia_westgate.jpg
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/aleshia.westgate.writes/
+
+---
+
+Historical crime fiction with a grisly twist
+
+Debut novel - currently querying
