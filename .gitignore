@@ -1,3 +1,4 @@
 .DS_store
 /.quarto/
 **/*.quarto_ipynb
+/_site
