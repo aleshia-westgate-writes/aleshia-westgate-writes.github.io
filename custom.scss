@@ -1,12 +1,8 @@
-// use litera as the base
-$theme: "litera" !default;
-
 /*-- scss:defaults --*/
-
-@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
-
 // fonts
-$font-family: 'Young Serif', serif;
+$font-family-sans-serif: "TC-Phantasmagoria", serif;
+$font-family-base: "TC-Phantasmagoria", serif;
+$web-font-path: "No"; 
 
 // colours
 $link-color: #9c3a21;
@@ -14,12 +10,20 @@ $link-hover-color: #ad5a45;
 $body-bg: #dbc8c3;
 
 /*-- scss:rules --*/
+@font-face {
+  font-display: swap;
+  font-family: 'TC-Phantasmagoria';
+  src: url('fonts/TC-Phantasmagoria.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .title {
-  $font-family: 'Young Serif', serif;
+  $font-family: 'TC-Phantasmagoria', serif;
 }
 
 h3 {
-  $font-family: 'Young Serif', serif;
+  $font-family: 'TC-Phantasmagoria', serif;
   color: #444444;
   font-size: 1.2rem;
 }

@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+  - fonts/*
 website:
   title: "Aleshia Westgate"
   open-graph: true
@@ -14,5 +16,6 @@ format:
   html:
     theme: [litera, custom.scss]
     css: styles.css
+    mainfont: 'TC-Phantasmagoria'
     highlight-style: arrow
     code-overflow: scroll
