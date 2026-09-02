@@ -5,7 +5,7 @@ about:
   image: images/aleshia_westgate.jpg
   links:
     - icon: instagram
-      text: Instagram
+      text: aleshia.westgate.writes
       href: https://www.instagram.com/aleshia.westgate.writes/
 
 ---
@@ -14,4 +14,4 @@ Historical crime fiction with a grisly twist
 
 Debut novel - currently querying
 
-  
+<p style="font-size: 2.0rem;">  </p>
