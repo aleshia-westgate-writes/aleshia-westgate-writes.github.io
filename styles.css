@@ -2,7 +2,14 @@
   font-family: 'TC-Phantasmagoria', serif;
 }
 
-p {
+.navbar {
+  background-color: #c7b6b1
+}
+
+body {
+  font-family: 'Fraunces', serif !important;
+}
+
+.old {
   font-family: 'TC-Phantasmagoria', serif;
-  font-size: 1.5rem;
 }
