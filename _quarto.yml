@@ -25,3 +25,5 @@ format:
     mainfont: 'TC-Phantasmagoria'
     highlight-style: arrow
     code-overflow: scroll
+    template-partials:
+      - html/templates/title-block.html
